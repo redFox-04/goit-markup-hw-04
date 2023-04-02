@@ -26,8 +26,6 @@ header{
     height: 80px;
 }
 h2{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 42px;
@@ -37,8 +35,6 @@ h2{
     color: var(--font--color);
 }
 h3{
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
@@ -49,9 +45,6 @@ h3{
 }
 .controls {
     display: flex;
-
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
@@ -146,9 +139,6 @@ h3{
 }
 .message_1{
     color: #FFFFFF;
-    
-    font-family: 'Roboto';
-    font-style: normal;
     font-weight: 900px;
     font-size: 44px;
     line-height: 60px;
